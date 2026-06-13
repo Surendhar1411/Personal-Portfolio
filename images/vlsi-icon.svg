@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#00FF66" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- AND Gate -->
+  <path d="M 10 12 H 22 C 28 12, 34 16, 34 23 C 34 30, 28 34, 22 34 H 10 Z" />
+  <path d="M 4 18 H 10 M 4 28 H 10" />
+  <!-- Connection line to NOT Gate -->
+  <path d="M 34 23 H 42" />
+  <!-- NOT Gate (Triangle + Circle bubble) -->
+  <polygon points="42,16 42,30 52,23" />
+  <circle cx="54.5" cy="23" r="2.5" fill="#00FF66" stroke="none" />
+  <!-- Output -->
+  <path d="M 57 23 H 60" />
+</svg>

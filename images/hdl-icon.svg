@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#00FF66" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer Chip outline -->
+  <rect x="12" y="12" width="40" height="40" rx="4" />
+  <!-- Pins -->
+  <path d="M 20 6 V 12 M 32 6 V 12 M 44 6 V 12 M 20 52 V 58 M 32 52 V 58 M 44 52 V 58 M 6 20 H 12 M 6 32 H 12 M 6 44 H 12 M 52 20 H 58 M 52 32 H 58 M 52 44 H 58" stroke-width="2.5" />
+  <!-- Inner code brackets inside chip -->
+  <path d="M 25 24 L 20 28 L 25 32 M 39 24 L 44 28 L 39 32 M 34 22 L 30 34" stroke-width="2.5" />
+</svg>

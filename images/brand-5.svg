@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <g fill="#00FF66" transform="translate(15, 18)">
+    <!-- AMD Chevron Symbol -->
+    <polygon points="15,40 38,40 38,17 29,26 15,26" />
+    <polygon points="43,40 43,12 15,12 20,17 38,17 38,35" />
+    <!-- AMD Text -->
+    <text x="50" y="38" font-family="'Arial Black', Impact, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="32" letter-spacing="1">AMD</text>
+  </g>
+</svg>
